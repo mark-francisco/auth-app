@@ -1,0 +1,6 @@
+{
+  :id => @user.id,
+  :email => @user.email,
+  :password_digest => @user.password_digest
+
+}
